@@ -26,4 +26,4 @@ The Secretary of the Legislature requires certain formatting criteria that will 
 
 ## What We Will Mainly Doing
 
-on This Github Repository we will mainly be working on the Exposition of Motives and the Decretative Text. The first is important for interpreting the text of the law after it has been made into law and the latter is the actual text of the law. 
+On this Github Repository we will mainly be working on the Exposition of Motives and the Decretative Text. The first is important for interpreting the text of the law after it has been made into law and the latter is the actual text of the law. 
